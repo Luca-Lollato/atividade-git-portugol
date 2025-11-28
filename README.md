@@ -30,3 +30,18 @@ git push origin main
 git add README.md
 git commit -m "Pessoa 1: adiciona README inicial"
 git push origin main
+
+
+### Pessoa 2: (Pedro Augusto Almeida Bueno)
+- Clonou o repositório via SSH.
+- Atualizou o arquivo `algoritmo.por` adicionando:
+  - o cálculo do valor final com desconto.
+  - a impressão do valor final na tela.
+- Fez commit e push das alterações para o repositório remoto.
+
+#### Comandos Git utilizados pela Pessoa 2
+- `git clone git@github.com:Luca-Lollato/atividade-git-portugol.git`
+- `git pull origin main`
+- `git add algoritmo.por README.md`
+- `git commit -m "Pessoa 2: adiciona cálculo de desconto e saída"`
+- `git push origin main`
